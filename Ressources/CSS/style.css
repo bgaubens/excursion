@@ -30,6 +30,10 @@ h3 {
     color: gray;
 }
 
+#main-image {
+    padding: 5px;
+}
+
 footer p {
     text-align: right;
     color: gray;
